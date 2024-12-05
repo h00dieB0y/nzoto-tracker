@@ -1,45 +1,47 @@
-# nzoto-tracker
+[![codecov](https://codecov.io/gh/h00dieB0y/nzoto-tracker/branch/main/graph/badge.svg)](https://codecov.io/gh/username/nzoto-tracker)
 
-This template should help get you started developing with Vue 3 in Vite.
+## Description
+**Nzoto Tracker** is a Vue.js application designed to empower users to monitor and manage their health metrics seamlessly. From the Lingala(Language spoken in Congo) ) word "Nzoto" meaning "body" Nzoto Tracker focuses on providing a comprehensive platform for tracking various aspects of your physical well-being.
 
-## Recommended IDE Setup
+## Key Features
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- **Comprehensive Health Monitoring:** (Coming soon) 
+  Track essential health metrics such as weight, BMI, body measurements, and more. Stay informed about your progress with intuitive dashboards and visualizations.
 
-## Type Support for `.vue` Imports in TS
+- **Calorie and Nutrition Tracking:**  (Coming soon)
+  Log your daily food intake effortlessly. Calculate calorie consumption and macronutrient distribution to maintain a balanced diet tailored to your goals.
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+- **Customizable Goals:**  (Coming soon)
+  Set personalized health and fitness goals, whether it's weight loss, muscle gain, or maintaining overall wellness. Nzoto Tracker adapts to your unique objectives.
 
-## Customize configuration
+- **Activity Logging:**  (Coming soon)
+  Record your physical activities, from workouts to daily steps. Analyze your activity patterns to optimize your fitness routine.
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+- **Progress Insights:**  (Coming soon)
+  Gain valuable insights through detailed reports and trend analysis. Understand your habits and make informed decisions to enhance your health journey.
 
-## Project Setup
+- **User-Friendly Interface:**  
+  Enjoy a sleek and responsive design built with Vue.js, ensuring a smooth and engaging user experience across all devices.
 
-```sh
-yarn
+## Why Nzoto Tracker?
+
+Tracking your health metrics is a fundamental step towards achieving your wellness goals. Nzoto Tracker simplifies this process by providing a unified platform where you can monitor your progress, make data-driven decisions, and stay motivated. Whether you're aiming to lose weight, improve your fitness, or maintain a healthy lifestyle, Nzoto Tracker offers the tools you need to succeed.
+
+
+## Installation
+```bash
+# Clone the repository
+git clone https://github.com/username/nzoto-tracker.git
+
+# Navigate to the project directory
+cd nzoto-tracker
+
+# Install dependencies
+yarn install
 ```
 
-### Compile and Hot-Reload for Development
-
-```sh
+## Usage
+```bash
+# Run the project in development mode
 yarn dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-yarn build
-```
-
-### Run Unit Tests with [Vitest](https://vitest.dev/)
-
-```sh
-yarn test:unit
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-yarn lint
 ```
